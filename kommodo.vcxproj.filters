@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\source\mypluginprocessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\source\myplugincontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\source\mypluginentry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ryan\Desktop\VST_SDK\vst3sdk\public.sdk\source\main\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\source\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\source\myplugincids.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\source\mypluginprocessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\source\myplugincontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\resource\myplugineditor.uidesc" />
+    <CustomBuild Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\resource\E2A45F3678E25701892B0E6BC9177EF0_snapshot.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\resource\E2A45F3678E25701892B0E6BC9177EF0_snapshot_2.0x.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Ryan\Desktop\kommodo plugin\kommodo\resource\win32resource.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EE72E88F-40F8-39AD-8873-C5AECF13CC22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{3A82574A-1CCD-3551-8A81-AF75DCEDC718}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{44199ED2-1795-32AD-9A93-A9F77879C0A2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

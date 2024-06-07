@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Ryan\Desktop\VST_SDK\vst3sdk\public.sdk\samples\vst-utilities\moduleinfotool\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ryan\Desktop\VST_SDK\vst3sdk\public.sdk\source\vst\moduleinfo\moduleinfocreator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ryan\Desktop\VST_SDK\vst3sdk\public.sdk\source\vst\moduleinfo\moduleinfoparser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ryan\Desktop\VST_SDK\vst3sdk\public.sdk\source\vst\hosting\module_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Ryan\Desktop\VST_SDK\vst3sdk\public.sdk\source\vst\moduleinfo\json.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ryan\Desktop\VST_SDK\vst3sdk\public.sdk\source\vst\moduleinfo\jsoncxx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ryan\Desktop\VST_SDK\vst3sdk\public.sdk\source\vst\moduleinfo\moduleinfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ryan\Desktop\VST_SDK\vst3sdk\public.sdk\source\vst\moduleinfo\moduleinfocreator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ryan\Desktop\VST_SDK\vst3sdk\public.sdk\source\vst\moduleinfo\moduleinfoparser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ryan\Desktop\VST_SDK\vst3sdk\public.sdk\samples\vst-utilities\moduleinfotool\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EE72E88F-40F8-39AD-8873-C5AECF13CC22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{44199ED2-1795-32AD-9A93-A9F77879C0A2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
